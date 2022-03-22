@@ -1,7 +1,7 @@
 # sudoku_solver
 
 Different methods for solving sudokus are implemented in this project.
-In the first and only notebook for now I implemented both human rules and computer algorithms to solve sudokus.
+In the first and only notebook for now (sudoku_solver.ipynb) I implemented both human rules and computer algorithms to solve sudokus.
 
 My next step is to build and train and OCR model to be able to recognize the numeric array from a picture and solve the sudoku.
 I am currently working on that, the whole model is going to be compossed of 3 parts:
